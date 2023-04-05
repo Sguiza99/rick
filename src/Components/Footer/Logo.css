@@ -1,0 +1,11 @@
+.Botones {
+    background-color: #2f2f2f;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+ 
+}
+.si {
+    color:whitesmoke;
+    text-decoration: underline;
+}
